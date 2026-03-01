@@ -260,3 +260,7 @@ ums-pro/
 - Helmet — security headers (CSP, HSTS, etc.)
 - CORS — только localhost:5173 и localhost:4173
 - Роли проверяются на бэкенде и фронтенде
+
+
+
+## deploy link: https://user-management-system-chi-inky.vercel.app
